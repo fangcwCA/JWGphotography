@@ -3,7 +3,7 @@ body {
 }
 
 .jbt {
-	background-image: url("https://c1.staticflickr.com/3/2869/33861579702_0530475fdd_b.jpg");
+	background-image: url("https://cdn.pixabay.com/photo/2016/02/06/18/05/camera-1183358_960_720.jpg");
 	background-attachment: fixed;
 	background-size: 100% 100%;
 	-moz-background-size: 100% 100%;
@@ -14,7 +14,7 @@ body {
 }
 
 .jbt2 {
-	background-image: url("https://c1.staticflickr.com/3/2907/33861576532_d6651fff54_b.jpg");
+	background-image: url("https://cdn.pixabay.com/photo/2015/03/17/11/36/work-677582_960_720.jpg");
 	background-attachment: fixed;
 	background-size: 100% 100%;
 	-moz-background-size: 100% 100%;
@@ -41,7 +41,7 @@ h1 {
 }
 
 #line {
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 
 .text {
@@ -63,19 +63,19 @@ h1 {
 }
 
 .abouthover:hover {
-	background-color:black;
+	background-color:#7a7d82;
 } 
 
 .mailhover:hover {
-	background-color:black;
+	background-color:#7a7d82;
 } 
 
 .instagram:hover {
-	background-color:black;
+	background-color:#7a7d82;
 }
 
 .navbar-header:hover {
-	background-color:black;
+	background-color:#7a7d82;
 }
 
 .fa-diamond {
