@@ -1,0 +1,84 @@
+body {
+	padding-top: 70px;
+}
+
+.jbt {
+	background-image: url("https://cdn.pixabay.com/photo/2016/02/06/18/05/camera-1183358_960_720.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+/*    color: black;*/
+    opacity: 0.8;
+}
+
+.jbt2 {
+	background-image: url("https://cdn.pixabay.com/photo/2015/03/17/11/36/work-677582_960_720.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+/*    color: white;*/
+    opacity: 0.9;
+}
+
+.navbar {
+	background-color: #23272d;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f2f5f9;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #f2f5f9;
+}
+
+h1 {
+	margin-bottom: 40px;
+}
+
+#line {
+	margin-bottom: 100px;
+}
+
+.text {
+	color:white;
+}
+
+.jbt2 .pheader {
+	font-family: Georgia;
+	color: white;
+}
+
+.pheader {
+	font-family: Georgia;
+	color: white;
+}
+
+#text2 {
+	color:white;
+}
+
+.abouthover:hover {
+	background-color:black;
+} 
+
+.mailhover:hover {
+	background-color:black;
+} 
+
+.instagram:hover {
+	background-color:black;
+}
+
+.navbar-header:hover {
+	background-color:black;
+}
+
+.fa-diamond {
+	margin-left: 10px;
+}
+
